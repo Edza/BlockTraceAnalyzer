@@ -1,4 +1,6 @@
-This program gets 2 inputs:
+##BlockTraceAnalyzer
+
+**This program gets 2 inputs:
 
 List of all functions in cleaned format from IDA Pro as a list:
 
@@ -10,7 +12,11 @@ And trace block information in cleaned format from DynamoRIO block tracking tool
 
 No other input is neccesary.
 
-*Program outputs a graph in .dot format to be used with any GraphViz visualizer.
+---------------------------------
+
+**Program outputs a graph in .dot format to be used with any GraphViz visualizer.
+
+----------------------
 
 **There is sample input and output included in this repository EXAMPLES folder.**
 

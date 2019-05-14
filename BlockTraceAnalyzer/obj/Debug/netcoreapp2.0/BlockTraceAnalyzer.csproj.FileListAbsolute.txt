@@ -1,0 +1,12 @@
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\bin\Debug\netcoreapp2.0\BlockTraceAnalyzer.deps.json
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\bin\Debug\netcoreapp2.0\BlockTraceAnalyzer.runtimeconfig.json
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\bin\Debug\netcoreapp2.0\BlockTraceAnalyzer.runtimeconfig.dev.json
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\bin\Debug\netcoreapp2.0\BlockTraceAnalyzer.dll
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\bin\Debug\netcoreapp2.0\BlockTraceAnalyzer.pdb
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\obj\Debug\netcoreapp2.0\BlockTraceAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\obj\Debug\netcoreapp2.0\BlockTraceAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\obj\Debug\netcoreapp2.0\BlockTraceAnalyzer.AssemblyInfoInputs.cache
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\obj\Debug\netcoreapp2.0\BlockTraceAnalyzer.AssemblyInfo.cs
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\obj\Debug\netcoreapp2.0\BlockTraceAnalyzer.dll
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\obj\Debug\netcoreapp2.0\BlockTraceAnalyzer.pdb
+C:\Users\edza\Desktop\mag\BlockTraceAnalyzer\BlockTraceAnalyzer\bin\Debug\netcoreapp2.0\BlockTraceAnalyzer.dll.config
